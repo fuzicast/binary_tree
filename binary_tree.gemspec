@@ -6,10 +6,10 @@ require 'binary_tree/version'
 Gem::Specification.new do |spec|
   spec.name          = "binary_tree"
   spec.version       = BinaryTree::VERSION
-  spec.authors       = ["TODO: Write your name"]
-  spec.email         = ["TODO: Write your email address"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.authors       = ["Yue Jiang"]
+  spec.email         = ["fuzicast@gmail.com"]
+  spec.summary       = %q{A gem that will convert array into binary tree and traverse through the tree}
+  spec.description   = %q{Just a gem}
   spec.homepage      = ""
   spec.license       = "MIT"
 
